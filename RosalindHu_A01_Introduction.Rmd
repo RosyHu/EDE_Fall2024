@@ -6,7 +6,7 @@ output: pdf_document
 
 ## OVERVIEW
 
-This exercise accompanies the introductory material in Environmental Data Analytics. 
+This exercise accompanies the introductory material in Environmental Data Analytics.  
 
 ## Directions
 1.  Rename this file `<FirstLast>_A01_Introduction.Rmd` (replacing `<FirstLast>` with your first and last name).
